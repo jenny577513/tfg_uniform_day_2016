@@ -82,7 +82,6 @@ $(document).ready(function()
           .css('top',top/2+'px').css('left',left/2+'px');
         $coverimage
           .css('background-size',width/2+'px '+height/2+'px')
-          .css('background-position',left/2+'px '+top/2+'px');
       });
     }
   });
