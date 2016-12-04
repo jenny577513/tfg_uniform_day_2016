@@ -79,7 +79,6 @@ $(document).ready(function()
         top = center[1] - height*0.5;
         $dragger
           .css('width',width/2+'px').css('height',height/2+'px')
-          .css('top',top/2+'px').css('left',left/2+'px');
         $coverimage
           .css('background-size',width/2+'px '+height/2+'px')
       });
