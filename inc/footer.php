@@ -1,14 +1,12 @@
 <!-- Footer -->
   <footer id="footer">
     <ul class="icons">
-      <li><a href="https://www.facebook.com/2015北一女中制服日-1055328207832585/" class="icon fa-facebook" target="_blank"><span class="label">2015北一女中制服日</span></a></li>
-      <li><a href="mailto:christinesfkao@gmail.com" class="icon fa-envelope-o" target="_blank"><span class="label">錯誤回報</span></a></li>
+      <li><a href="https://www.facebook.com/events/1223074801118143/" class="icon fa-facebook" target="_blank"><span class="label">2016 北一制服日</span></a></li>
     </ul>
     <ul class="copyright">
-      <li>&copy; <a href="http://christinesfkao.tw">Christine Kao</a> 2015</li>
       <li><a href="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a></li>
       <li><a href="https://opensource.org/licenses/BSD-3-Clause">BSD New</a></li>
-      <li><a href="https://github.com/christinesfkao/tfg-profile-pic">Source Code</a></li>
+      <li><a href="https://github.com/christinesfkao/tfg_uniform_day_2016">Source Code</a></li>
     </ul>
   </footer>
 

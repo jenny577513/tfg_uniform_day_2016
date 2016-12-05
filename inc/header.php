@@ -1,17 +1,17 @@
 <!DOCTYPE HTML>
 <!--
-	2015 北一制服日・頭貼產生器 by christinesfkao, 2015, under CC-BY 3.0
+	2016 北一制服日・頭貼產生器 under CC-BY 3.0
 	Template by HTML5 UP  html5up.net | n33.co @n33co dribbble.com/n33
 	Core functions inspired by 7 號頭像產生器(http://goooooooogle.github.io/profile-picture-generator/)
 -->
 <html>
 	<head>
-		<title>2015 北一制服日・頭貼產生器</title>
+		<title>2016 北一制服日・頭貼產生器</title>
 		<meta charset="utf-8" />
-		<meta property="og:title" content="2015 北一制服日・頭貼產生器"/>
-		<meta property="og:url" content="https://tfg-profile-pic.infoplat.org/<?= isset($og_path) ? $og_path : '' ?>"/>
-		<meta property="og:image" content="<?= isset($og_image) ? $og_image : 'https://tfg-profile-pic.infoplat.org/images/avatar.png' ?>"/>
-		<meta property="og:site_name" content="2015 北一制服日・頭貼產生器"/>
+		<meta property="og:title" content="2016 北一制服日・頭貼產生器"/>
+		<meta property="og:url" content="https://tfguniform2016.infoplat.org/<?= isset($og_path) ? $og_path : '' ?>"/>
+		<meta property="og:image" content="<?= isset($og_image) ? $og_image : 'https://tfguniform2016.infoplat.org/images/avatar.png' ?>"/>
+		<meta property="og:site_name" content="2016 北一制服日・頭貼產生器"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="javascript/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="vender/bootstrap/css/bootstrap.min.css" />
@@ -35,7 +35,7 @@
 					<section id="main">
 						<header>
 							<span class="avatar"><img src="images/avatar.png" alt="" /></span>
-							<h1>2015/12/12</br>北一制服日・頭貼產生器</h1>
+							<h1>2016/12/12</br>北一制服日・頭貼產生器</h1>
 							<ul class="actions">
 							  <li><a href="./" class="button">產生我的頭貼</a></li>
 							</ul>
